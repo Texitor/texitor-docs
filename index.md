@@ -17,10 +17,16 @@ hero:
       link: /troubleshooting
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Fast compilation
+    details: Built from the ground up to be fast and efficient. Texitor compiles your documents as fast as possible.
+    icon: ⚡
+  - title: Secure documents
+    details: Documents you edit using Texitor are secure and private. We don't store any of your documents on our servers.
+    icon: 🔒
+  - title: Customizable themes
+    details: Choose from a variety of themes to make writing LaTeX more enjoyable.
+    icon: 🖌️
+  - title: Easy to use
+    details: Texitor is designed to be easy to use and intuitive. You can start writing LaTeX documents in no time.
+    icon: 💡
 ---
