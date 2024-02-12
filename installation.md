@@ -38,7 +38,7 @@ Alternatively, you can follow the guide [here](https://www.tug.org/texlive/quick
 
 ### Tectonic
 
-Tectonic is a new self-contained LaTeX engine, meaning it comes with everything you need to compile your documents. Texitor supports Tectonic assuming you have it downloaded and added to your path environment variable. You can download and install Tectonic [here](https://tectonic-typesetting.github.io/en-US/install.html).
+Tectonic is a new self-contained LaTeX engine, meaning it comes with everything you need to compile your documents. Texitor supports Tectonic assuming you have it downloaded and added to your path environment variable. You can download and install Tectonic [here](https://tectonic-typesetting.github.io/en-US/install.html). Note that this will simply place an executable in the directory you ran the command from. We recommend adding it to your path environment variable.
 
 ### Latexmk
 
