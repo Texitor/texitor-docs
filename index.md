@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Texitor Documentation"
-  text: "Documentation for the Latex editor, Texitor"
+  name: "Texitor"
+  text: "Documentation"
   tagline: Own your papers.
   image:
     src: ./texitor-logo.png
